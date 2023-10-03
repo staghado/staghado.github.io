@@ -5,9 +5,13 @@
 
 ### BNP PARIBAS Cardif, **Data Scientist Intern**  
 - *April 2023 - September 2023*
-  - Proficient in the creation of OCR models tailored for recognizing and discerning handwritten and digital text within scanned documents.
-  - Utilized cutting-edge models to optimize system performance and reduce inference time effectively.
-  - Developed text-to-image generation models employing diffusion models and GANs, resulting in a significant augmentation of OCR capabilities.
+  - Developed and implemented advanced OCR models tailored to accurately recognize handwritten and digital text
+within scanned documents, resulting in a 40% improvement in recognition accuracy..
+  - Utilized state-of-the-art models to optimize system performance and reduce inference time..
+  - Developed text-to-image generation models employing latent diffusion models and GANs for handwritten image
+generation, resulting in a significant boost of model performance.
+  - Integrated the developed solution into the existing Intelligent Document Processing pipeline, enhancing
+document processing efficiency by adding support for handwritten documents.
 
 ### Zaion, **Data Scientist Intern**  
 - *February 2022 - August 2022*
@@ -18,8 +22,8 @@
 
 ### RTE, **Data Scientist Intern**  
 - *May 2021 - October 2021*
-  - Designed an algorithm to estimate the risk of failures in electrical grid components by leveraging machine learning and statistical techniques. The algorithm was deployed internally to streamline risk assessment processes.
-  - Conducted extensive data preprocessing and extracted valuable insights from a substantial dataset comprising over 1 million rows of electrical grid data.
+  - Designed an algorithm to estimate the risk of failures in electrical grid components by leveraging machine
+learning and statistical techniques.
   - Developed a robust algorithm for calculating failure risk for various grid components, contributing to more informed decision-making and proactive maintenance strategies.
   - Created an interactive web application to facilitate user-friendly utilization of the risk estimation algorithm, enhancing accessibility and usability for stakeholders.
 
