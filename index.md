@@ -55,25 +55,14 @@
 
 <!-- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/deep-dream.html) -->
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/staghado/Deep-Dream/blob/4857e7d04178ad1c9f0a737c84fb5c05c1c8a87d/Deep_Dream.ipynb)
-- **Deep Dream - Neural Style Transfer**: Implement Neural Style Transfer (NST) to transfer the style of one source image to another while keeping its content. The VGG19 model is used for extraction of low-level features (Style) and high-level features (Content).
+- **Deep Dream - Neural Style Transfer**: 
+Implement Neural Style Transfer (NST) to transfer the style of one source image to another while keeping its content. The VGG19 model is used for extraction of low-level features (Style) and high-level features (Content).
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/staghado/RIG-Chess/blob/3dc363a88d1a9043f0b06cfce4976e0c3c03c78d/Mini_RIG.py)
 - **RIG-Chess - Reinforcement Learning with Imagined Goals (RIG) for Chess**: Unsupervised representation learning and reinforcement learning of goal-conditioned policies applied to the game of chess. A generative model, VAE, is used to generate chess configurations that will serve as goals that the agent is going to try and reach.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/staghado/Regex/blob/d36cc5b4eef47126685446b2747b87687b09c328/Seq2Seq_Model_for_Neural_Machine_Translation_for_REGEX.ipynb)
 - **Natural language to regular expression**: Building a model to translate natural language sentences into valid regular expressions. The first version of the project uses an LSTM-based Encoder-Decoder architecture.
-
-## Skills Summary
-
-- **Computer Vision**: Transformers, CNN, Object detection, Image Segmentation, Self-supervised learning, Visual NLP (OCR, LayoutLM, Donut), Generative models (GAN, Diffusion, etc)
-
-- **Machine Learning**: PCA, SVM, K-means, Random forest, Bayesian models, Ensemble methods...
-
-- **Languages**: Python, R, Matlab, C/C++, SQL, Bash
-
-- **Frameworks**: OpenCV, Numpy, Pandas, PyTorch, Keras, JAX, Scikit-learn, pytest
-
-- **Tools**: Docker, Git, AWS, Azure, Linux
 
 ---
 <center>© 2023 Said Taghadouini. Powered by Jekyll and the Minimal Theme.</center>
