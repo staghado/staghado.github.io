@@ -6,7 +6,7 @@
 ### BNP PARIBAS Cardif, **Data Scientist Intern**  
 - *April 2023 - September 2023*
   - Developed and implemented advanced OCR models tailored to accurately recognize handwritten and digital text
-within scanned documents, resulting in a 40% improvement in recognition accuracy..
+within scanned documents, resulting in a 40% improvement in recognition accuracy.
   - Utilized state-of-the-art models to optimize system performance and reduce inference time..
   - Developed text-to-image generation models employing latent diffusion models and GANs for handwritten image
 generation, resulting in a significant boost of model performance.
