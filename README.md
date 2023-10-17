@@ -1,1 +1,1 @@
-My Data science portfolio at : https://staghado.github.io/
+My Data Science portfolio at : https://staghado.github.io/
