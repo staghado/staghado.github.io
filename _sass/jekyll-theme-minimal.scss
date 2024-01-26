@@ -1,6 +1,13 @@
 @import "fonts";
 @import "rouge-github";
 
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #333;
+        color: #fff;
+    }
+}
+
 body {
   background-color: #fff;
   padding:50px;
