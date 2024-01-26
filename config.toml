@@ -1,6 +1,6 @@
 baseURL = "https://staghado.github.io/"  
 languageCode = "en-us" 
-title = "Said's blog"  
+title = "Said's ML Diary – Decoding the Future, One Algorithm at a Time"  
 theme = "PaperMod" 
 
 [params]
