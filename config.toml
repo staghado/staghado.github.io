@@ -1,0 +1,8 @@
+baseURL = "https://staghado.github.io/"  
+languageCode = "en-us" 
+title = "Said's blog"  
+theme = "PaperMod" 
+
+[params]
+  author = "Said Taghadouini"
+  description = "A curated list of subjects of interest to me."
