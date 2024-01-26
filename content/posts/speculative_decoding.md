@@ -2,6 +2,7 @@
 title: "Speculative Decoding"
 date: 2024-01-26T21:32:57+01:00
 draft: true
+math: true
 ---
 
 Speculative Decoding works by considering two models $M_p$ and $M_q$ where $M_p$ represents the target model(slow or expensive to evaluate) and $M_q$ is a more efficient model for the same task(what would happen if it's not the same task?). The conditional probability $p(x_t|x_{<t}) = p(x)$ is what we get when we run a prefix/context $x_{<t}$ through the model $M_p$. We have the same thing for q.
