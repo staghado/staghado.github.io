@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://staghado.github.io/sitemap.xml
