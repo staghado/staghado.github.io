@@ -4,7 +4,8 @@
 # data/
 # layouts/
 # resources/
-themes/
+themes/*
+public/
 
 # files
 .gitignore
