@@ -1,6 +1,11 @@
-*~
+# directories
+
 # archetypes/
 # data/
 # layouts/
 # resources/
 themes/
+
+# files
+.gitignore
+.gitmodules
