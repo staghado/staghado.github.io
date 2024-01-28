@@ -5,7 +5,6 @@
 # layouts/
 # resources/
 themes/*
-public/
 
 # files
 .gitignore
