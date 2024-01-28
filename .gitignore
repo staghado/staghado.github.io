@@ -1,6 +1,6 @@
 *~
-archetypes/
-data/
+# archetypes/
+# data/
 # layouts/
-resources/
-themes/
+# resources/
+# themes/
