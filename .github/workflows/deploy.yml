@@ -18,5 +18,8 @@ jobs:
 
     - name: Synchronize Directories and Remove 'public'
       run: |
+        echo "Starting rsync..."
         rsync -vuar --ignore-existing public/ . || true
+        echo "Rsync completed. Starting to remove public directory..."
         rm -rf public
+        echo "public directory removed."
