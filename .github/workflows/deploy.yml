@@ -1,0 +1,22 @@
+name: Deploy Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Setup Environment
+      run: sudo apt-get install -y rsync
+
+    - name: Synchronize Directories and Remove 'public'
+      run: |
+        rsync -av public/ .
+        rm -rf public
