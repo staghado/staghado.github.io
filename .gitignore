@@ -1,4 +1,4 @@
-# .gitignore
+.gitignore
 .hugo_build.lock
 config.yml
 # ml-diary
@@ -6,4 +6,4 @@ layouts
 # images
 content
 # assets
-# archetypes
+archetypes
