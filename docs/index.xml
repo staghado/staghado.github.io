@@ -14,6 +14,13 @@
     <lastBuildDate>Sun, 25 Feb 2024 23:30:51 +0100</lastBuildDate>
     <atom:link href="https://staghado.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mamba</title>
+      <link>https://staghado.github.io/posts/mamba/</link>
+      <pubDate>Sun, 25 Feb 2024 23:30:51 +0100</pubDate>
+      <guid>https://staghado.github.io/posts/mamba/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Speculative Decoding</title>
       <link>https://staghado.github.io/posts/speculative_decoding/</link>
       <pubDate>Sun, 25 Feb 2024 22:35:42 +0100</pubDate>
