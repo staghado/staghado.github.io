@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML Diary</title>
+    <link>https://staghado.github.io/</link>
+    <description>Recent content on ML Diary</description>
+    <image>
+      <title>ML Diary</title>
+      <url>https://staghado.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://staghado.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Feb 2024 22:35:42 +0100</lastBuildDate>
+    <atom:link href="https://staghado.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speculative Decoding</title>
+      <link>https://staghado.github.io/posts/speculative_decoding/</link>
+      <pubDate>Sun, 25 Feb 2024 22:35:42 +0100</pubDate>
+      <guid>https://staghado.github.io/posts/speculative_decoding/</guid>
+      <description>Speculative Decoding works by considering two models $M_p$ and $M_q$ where $M_p$ represents the target model(slow or expensive to evaluate) and $M_q$ is a more efficient model for the same task(what would happen if it&amp;rsquo;s not the same task?). The conditional probability $p(x_t|x_{&amp;lt;t}) = p(x)$ is what we get when we run a prefix/context $x_{&amp;lt;t}$ through the model $M_p$. We have the same thing for q.
+The algorithm is divided into three steps:</description>
+    </item>
+  </channel>
+</rss>
